@@ -1,4 +1,4 @@
-![git](https://user-images.githubusercontent.com/119467538/215260819-3a3932d4-8dc5-47c8-9b01-331fd695df79.png)
+
 <h1 align="center">Hi 👋, I'm YuKi</h1>
 <h3 align="center">C | E | H</h3>
 
