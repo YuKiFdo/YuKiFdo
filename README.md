@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm YuKi</h1>
+<h1 align="center">Hi 👋, I'm Shehal Herath aka YuKi</h1>
 <h3 align="center"> < Game Developer >
 
 <h3 align="left">Languages and Tools:</h3>
