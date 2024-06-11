@@ -18,7 +18,7 @@
   
 </div> 
 
- <p> A comp-sci undergraduate student and a aspiring software developer with good problem-solving skills. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill-set, placing a special emphasis on writing good quality code.</p>
+ <p>A computer science undergraduate and aspiring DevOps and AI enthusiast with strong problem-solving abilities. Passionate about leveraging technology to drive innovation. Skilled in collaborative environments and committed to writing high-quality code. Always eager to learn and grow within the dynamic fields of DevOps and artificial intelligence.</p>
 
 
 <p align="left">
