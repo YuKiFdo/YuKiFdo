@@ -22,57 +22,31 @@
 
 
 <p align="left">
-  
-[![GitHub](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/YuKiFdo)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shehal-herath-5a570524b)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shehaldev@outlook.com)
+
 </p>
  
 ---
 
 ### 🌐 Skills
 
-  ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-  ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-  ![Lua](https://img.shields.io/badge/-Lua-2C2D72?logo=Lua&logoColor=white&style=flat)
-  ![Java](https://img.shields.io/badge/-Java-FF0000?logo=Java&logoColor=white&style=flat)
-  ![Dart](https://img.shields.io/badge/-Dart-32B8F7?logo=Dart&logoColor=white&style=flat)
-  
-  ![MySQ](https://img.shields.io/badge/-MySQL-6DB33F?logo=MySQL&logoColor=white&style=flat)
-  ![hibernate](https://img.shields.io/badge/-Hibernate-59666C?logo=hibernate&logoColor=white&style=flat)
-  ![SpringBoot](https://img.shields.io/badge/-SpringBoot-6DB33F?logo=springboot&logoColor=white&style=flat)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
-
-  ![bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
-  ![tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=flat)
-  ![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white&style=flat)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,vite,vue,angular,flutter,dart,kotlin,materialui,css,sass,tailwind,javascript,nodejs,typescript,python,mysql,mongodb,firebase,docker,azure,aws,postman" />
+</p>
 
 
 ### 🛠️ Tools & Software
-
-  ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
-  ![canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white&style=flat)
-
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe%20photoshop&logoColor=white&style=flat)
-  ![adobepremierepro](https://img.shields.io/badge/-PremierePro-9999FF?logo=adobepremierepro&logoColor=white&style=flat)
-  ![adobeaftereffects](https://img.shields.io/badge/-AfterEffects-9999FF?logo=adobeaftereffects&logoColor=white&style=flat)
-  ![blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white&style=flat)
-  
-  ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual%20studio%20code&logoColor=white&style=flat)
-  ![Intellij IDEA](https://img.shields.io/badge/-Intellij-000000?logo=intellijidea&logoColor=white&style=flat)
-  ![apachenetbeanside](https://img.shields.io/badge/-NetBeans-1B6AC6?logo=apachenetbeanside&logoColor=white&style=flat)
-  
-  ![Slack](https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white&style=flat)
-  ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
- 
-  ![unrealengine](https://img.shields.io/badge/-Unreal-0E1128?logo=unrealengine&logoColor=white&style=flat)
- 
+  </a>
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,ps,pr,stackoverflow,blender,bots,vscode,idea,ae,linux" />
+  </a>
 
  ### 🔱 Version Controll
   
-  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
+ </a>
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,githubactions,git" />
+  </a>
  
 ---
  
