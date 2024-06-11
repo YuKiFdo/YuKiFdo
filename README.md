@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&random=false&width=451&lines=Hello+It's+me+Shehal!;I'm+a+Fullstack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&random=false&width=451&lines=👋🏽Hey+there!++I'm+Shehal;💥Reach+out+me+for+collab)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>  
@@ -25,7 +25,7 @@
   
 [![GitHub](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/YuKiFdo)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shehal-herath-5a570524b)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shehal.herath32@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shehaldev@outlook.com)
 </p>
  
 ---
@@ -85,17 +85,19 @@
   
 
  #### Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=YuKiFdo&show_icons=true&theme=gotham" alt="github stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YuKiFdo&show_icons=true&theme=github_dark" alt="github stats"/>
 
 </td>
 
 <td width="50%" align="center">
 
 #### Top Languages
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuKiFdo&layout=compact&theme=gotham"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuKiFdo&layout=compact&theme=github_dark"/>
 
   </td>
 </tr>
 </table>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YuKiFdo&bg_color=0d1117&color=878787&line=4c8ed9&point=878787&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </p> 
