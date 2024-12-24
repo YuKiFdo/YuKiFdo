@@ -18,7 +18,7 @@
   
 </div> 
 
- <p>A computer science undergraduate and aspiring DevOps and AI enthusiast with strong problem-solving abilities. Passionate about leveraging technology to drive innovation. Skilled in collaborative environments and committed to writing high-quality code. Always eager to learn and grow within the dynamic fields of DevOps and artificial intelligence.</p>
+ <p>A computer science and aspiring DevOps and AI enthusiast with strong problem-solving abilities. Passionate about leveraging technology to drive innovation. Skilled in collaborative environments and committed to writing high-quality code. Always eager to learn and grow within the dynamic fields of DevOps and artificial intelligence.</p>
 
 
 <p align="left">
